@@ -1,6 +1,6 @@
 # Analisi Questionario – Clientela 20–30 anni (Settore Assicurativo)
 
-Questo repository contiene lo script Python utilizzato per l’**analisi esplorativa dei dati** raccolti tramite questionario online (Google Form), realizzata nell’ambito della **tesi di laurea**.
+Questo repository contiene lo script Python utilizzato per l’**analisi esplorativa dei dati** raccolti tramite questionario online (Typeform), realizzata nell’ambito della **tesi di laurea**.
 
 L’obiettivo dell’analisi è comprendere le caratteristiche, i comportamenti e le principali criticità della clientela **20–30 anni** in relazione ai prodotti assicurativi, con particolare attenzione al **customer journey** e alla **propensione alla sottoscrizione**.
 
