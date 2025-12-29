@@ -25,7 +25,7 @@ La ricerca ha natura **esplorativa** ed è riferita a uno **studio di caso** su 
 .
 ├── analisi_questionario.py        # Script principale di analisi
 ├── resources/
-│   ├── risposte_29_12_2025.csv    # Dataset esportato da Google Form
+│   ├── risposte_29_12_2025.csv    # Dataset esportato da Typeform
 │   └── script.log                 # Log di esecuzione
 ├── output_plots/                  # Grafici generati dallo script
 └── README.md
